@@ -9,9 +9,9 @@
 Git is a distributed version control system that enables developers to track changes and collaborate efficiently.
 
 ## Project Description
-This project is an audit of open-source software, focusing on its philosophy, Linux environment, ecosystem, and comparison with proprietary alternatives.
+This project is all about understanding open-source software—what it stands for, how it works in a Linux environment, and the ecosystem built around it. It also looks at how open-source solutions compare with proprietary software in real-world use.
 
-It also includes 5 shell scripts demonstrating Linux command-line skills and automation.
+Along with the theoretical part, the project includes five shell scripts that demonstrate practical command-line usage and simple automation tasks in Linux.
 
 ## Scripts Overview
 
