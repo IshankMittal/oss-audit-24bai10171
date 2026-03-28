@@ -30,11 +30,15 @@ Reads a file and counts occurrences of a keyword like "error".
 ### Script 5: Open Source Manifesto Generator
 Generates a personalized open-source philosophy statement based on user input.
 
-## How to Run Scripts
+## How to Run Scripts (Using Git Bash)
 
-### Step 1: Open terminal in project folder
+### Step 1: Open Git Bash
+Right-click inside the project folder and select:
+Git Bash Here
 
-### Step 2: Give permission
+### Step 2: Give execute permission
+Run the following commands:
+
 ```bash
 chmod +x script1.sh
 chmod +x script2.sh
