@@ -3,9 +3,9 @@
 ## Student Details
 - Name: Ishank Mittal
 - Registration Number: 24bai10171
-- Chosen Software: **git**
+- Chosen Software: **Git**
   
-##Git
+## Git
 Git is a distributed version control system that enables developers to track changes and collaborate efficiently.
 
 ## Project Description
