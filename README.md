@@ -1,53 +1,53 @@
-# 🧾 Open Source Audit Project
+# Open Source Audit Project
 
-## 👤 Student Details
+## Student Details
 - Name: Ishank Mittal
 - Registration Number: YOUR_ROLL_NUMBER
 
 ---
 
-## 🖥️ Chosen Software
+## Chosen Software
 **Git**
 
 Git is a distributed version control system that enables developers to track changes and collaborate efficiently.
 
 ---
 
-## 📜 Project Description
+## Project Description
 This project is an audit of open-source software, focusing on its philosophy, Linux environment, ecosystem, and comparison with proprietary alternatives.
 
 It also includes 5 shell scripts demonstrating Linux command-line skills and automation.
 
 ---
 
-## ⚙️ Scripts Overview
+## Scripts Overview
 
-### 🔹 Script 1: System Identity Report
+### Script 1: System Identity Report
 Displays system details such as kernel version, user, uptime, and date.
 
 ---
 
-### 🔹 Script 2: FOSS Package Inspector
+### Script 2: FOSS Package Inspector
 Checks whether Git is installed and displays its version and purpose.
 
 ---
 
-### 🔹 Script 3: Disk and Permission Auditor
+### Script 3: Disk and Permission Auditor
 Analyzes important system directories and shows their size and permissions.
 
 ---
 
-### 🔹 Script 4: Log File Analyzer
+### Script 4: Log File Analyzer
 Reads a file and counts occurrences of a keyword like "error".
 
 ---
 
-### 🔹 Script 5: Open Source Manifesto Generator
+### Script 5: Open Source Manifesto Generator
 Generates a personalized open-source philosophy statement based on user input.
 
 ---
 
-## ▶️ How to Run Scripts
+## How to Run Scripts
 
 ### Step 1: Open terminal in project folder
 
