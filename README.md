@@ -15,26 +15,28 @@ Along with the theoretical part, the project includes five shell scripts that de
 
 ## Scripts Overview
 
-### Script 1: System Identity Report
-Displays system details such as kernel version, user, uptime, and date.
+This project includes five shell scripts that demonstrate basic system operations and automation using Git Bash. Each script focuses on a different concept of shell scripting and Linux commands.
 
-### Script 2: FOSS Package Inspector
-Checks whether Git is installed and displays its version and purpose.
+### script1.sh — System Identity Report
+This script displays important system information such as the kernel version, current user, date and time, and system details. It uses basic commands and also handles cases where some information is not available in Git Bash.
 
-### Script 3: Disk and Permission Auditor
-Analyzes important system directories and shows their size and permissions.
+### script2.sh — Package Inspector
+This script checks whether Git is installed on the system. If found, it displays the version of Git and prints a short description using a case statement. It demonstrates how to verify software installation using command-line tools.
 
-### Script 4: Log File Analyzer
-Reads a file and counts occurrences of a keyword like "error".
+### script3.sh — Disk and Permission Auditor
+This script goes through a list of system directories and shows their size and permissions. It uses a loop to check each directory and handles cases where a directory may not exist in the current environment.
 
-### Script 5: Open Source Manifesto Generator
-Generates a personalized open-source philosophy statement based on user input.
+### script4.sh — Log File Analyzer
+This script reads a file line by line and counts how many times a given keyword appears in it. It also prints the last few matching lines, which helps in quickly identifying important information from logs or files.
+
+### script5.sh — Manifesto Generator
+This script takes input from the user and generates a simple open-source manifesto. The output is saved into a text file. It demonstrates user input handling and file writing in shell scripting.
 
 ## How to Run Scripts (Using Git Bash)
 
 ### Step 1: Open Git Bash
 Right-click inside the project folder and select:
-Git Bash Here
+`Git Bash Here`
 
 ### Step 2: Give execute permission
 Run the following commands:
